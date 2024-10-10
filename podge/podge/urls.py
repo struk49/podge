@@ -20,4 +20,4 @@ from django.urls import path, include
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('rubble/', include("rubble.urls")),
-    path('newyear/', include("newyear.urls")),]
+    path('tasks/', include("tasks.urls")),]

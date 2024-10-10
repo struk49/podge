@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-958gybx)ck9rf!lcpszgmv+7mmz6+_*#q#_^xva((5+7-g-(iz
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-struk49-podge-26aesdfii0s.ws.codeinstitute-ide.net']
+ALLOWED_HOSTS = ['8000-struk49-podge-olysodxv8x6.ws.codeinstitute-ide.net']
 
 
 # Application definition
@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rubble',
-    'newyear',
+    'tasks',
 ]
 
 MIDDLEWARE = [
